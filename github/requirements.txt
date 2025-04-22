@@ -1,4 +1,4 @@
-PyGithub===1.53
-requests==2.24.0
+PyGithub
+requests
 openai
 google-genai
